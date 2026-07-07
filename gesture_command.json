@@ -1,0 +1,11 @@
+{
+  "detected": false,
+  "gesture": "none",
+  "pinch_distance": null,
+  "hand_x": null,
+  "hand_y": null,
+  "hand_size": null,
+  "selected_joint": 1,
+  "home_request": false,
+  "timestamp": 1782972607.49773
+}
